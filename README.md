@@ -16,51 +16,49 @@ Computer Science graduate with applied research experience in machine learning, 
 
 ---
 
-<table>
-<tr><td width="130"><b>03.2025 – Present</b></td><td>🟢</td><td>
+## 🧭 Timeline
 
-**Developer Advocate, HackQuest India**
-Mentoring 100+ participants across co-learning camps, resolving technical doubts and guiding learners on programming and blockchain development.
+> ### 🟢 Developer Advocate — HackQuest India
+> ![COMMUNITY](https://img.shields.io/badge/COMMUNITY-2ea043?style=flat-square) `Mar 2025 – Present`
+>
+> Mentoring 100+ participants across co-learning camps, resolving technical doubts and guiding learners on programming and blockchain development.
 
-</td><td align="right"><i>COMMUNITY</i></td></tr>
+<br/>
 
-<tr><td><b>03.2024 – 03.2025</b></td><td>🟠</td><td>
+> ### 🟠 Vice President — Cybernauts: The Tech Society
+> ![LEADERSHIP](https://img.shields.io/badge/LEADERSHIP-fd7e14?style=flat-square) `Mar 2024 – Mar 2025`
+>
+> Mata Sundri College for Women. Led the college's technical society, organizing events and resources for 50+ student members.
 
-**Vice President, Cybernauts: The Tech Society**
-Mata Sundri College for Women. Led the college's technical society, organizing events and resources for 50+ student members.
+<br/>
 
-</td><td align="right"><i>LEADERSHIP</i></td></tr>
+> ### 🟣 Peer Mentor — Mata Sundri College for Women
+> ![MENTORSHIP](https://img.shields.io/badge/MENTORSHIP-8957e5?style=flat-square) `Mar 2024`
+>
+> Delivered a two-day interactive peer-learning session on Data Visualization using Matplotlib.
 
-<tr><td><b>03.2024</b></td><td>🟠</td><td>
+<br/>
 
-**Peer Mentor, Mata Sundri College for Women**
-Delivered a two-day interactive peer-learning session on Data Visualization using Matplotlib.
+> ### 🟡 Business Development Specialist Intern — Younity
+> ![INDUSTRY](https://img.shields.io/badge/INDUSTRY-e3b341-black?style=flat-square) `Oct 2023`
+>
+> Drove student outreach and engagement initiatives supporting organizational growth.
 
-</td><td align="right"><i>MENTORSHIP</i></td></tr>
+<br/>
 
-<tr><td><b>10.2023</b></td><td>🟡</td><td>
+> ### 🔵 Bachelor of Technology, Computer Science
+> ![EDUCATION](https://img.shields.io/badge/EDUCATION-1f6feb?style=flat-square) `Nov 2022 – Jun 2026`
+>
+> University of Delhi — Mata Sundri College for Women, India
 
-**Business Development Specialist Intern, Younity**
-Drove student outreach and engagement initiatives supporting organizational growth.
+<br/>
 
-</td><td align="right"><i>INDUSTRY</i></td></tr>
+> ### 🔵 Intermediate (Class XII)
+> ![EDUCATION](https://img.shields.io/badge/EDUCATION-1f6feb?style=flat-square) `Jun 2021 – May 2022`
+>
+> A Saraswati Vidya Mandir Sr. Sec. School, Saket Ayodhya, UP, India
 
-<tr><td><b>11.2022 – 06.2026</b></td><td>🔵</td><td>
-
-**Bachelor of Technology, Computer Science**
-University of Delhi — Mata Sundri College for Women, India
-
-</td><td align="right"><i>EDUCATION</i></td></tr>
-
-<tr><td><b>06.2021 – 05.2022</b></td><td>🔵</td><td>
-
-**Intermediate (Class XII)**
-A Saraswati Vidya Mandir Sr. Sec. School, Saket Ayodhya, UP, India
-
-</td><td align="right"><i>EDUCATION</i></td></tr>
-</table>
-
-<p align="center"><sub>Entries with a project behind them link to the write-up below.</sub></p>
+<p align="center"><sub>✦ Entries with a project behind them link to the write-up below ✦</sub></p>
 
 ---
 
